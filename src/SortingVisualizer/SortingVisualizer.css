@@ -1,0 +1,14 @@
+.val-bar {
+    width: 5px;
+    background-color: burlywood;
+    display: inline-block;
+    margin: 0 1.5px;
+    max-height: 700px;
+}
+.arr-container {
+    display: flexbox;
+    justify-content: center;
+    /* left: 100px; */
+    
+    
+}
