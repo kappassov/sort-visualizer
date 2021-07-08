@@ -1,5 +1,5 @@
-###Hello!
-##Link to the project: https://kappassov.github.io/sort-visualizer/
+### Hello!
+## Link to the project: https://kappassov.github.io/sort-visualizer/
 
 
 
